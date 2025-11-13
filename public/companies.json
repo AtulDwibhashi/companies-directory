@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Solutions",
+    "location": "Bangalore, India",
+    "industry": "Software",
+    "size": 250,
+    "founded": 2015,
+    "website": "https://technova.example.com"
+  },
+  {
+    "id": 2,
+    "name": "GreenLeaf Foods",
+    "location": "Mumbai, India",
+    "industry": "Food & Beverages",
+    "size": 120,
+    "founded": 2010,
+    "website": "https://greenleaf.example.com"
+  },
+  {
+    "id": 3,
+    "name": "Skyline Realty",
+    "location": "Delhi, India",
+    "industry": "Real Estate",
+    "size": 80,
+    "founded": 2008,
+    "website": "https://skyline.example.com"
+  },
+  {
+    "id": 4,
+    "name": "HealthBridge Hospitals",
+    "location": "Chennai, India",
+    "industry": "Healthcare",
+    "size": 800,
+    "founded": 2005,
+    "website": "https://healthbridge.example.com"
+  },
+  {
+    "id": 5,
+    "name": "BlueWave Finance",
+    "location": "Pune, India",
+    "industry": "Finance",
+    "size": 300,
+    "founded": 2012,
+    "website": "https://bluewave.example.com"
+  },
+  {
+    "id": 6,
+    "name": "UrbanCraft Studios",
+    "location": "Bangalore, India",
+    "industry": "Design",
+    "size": 45,
+    "founded": 2018,
+    "website": "https://urbancraft.example.com"
+  },
+  {
+    "id": 7,
+    "name": "SwiftLogistics Pvt Ltd",
+    "location": "Hyderabad, India",
+    "industry": "Logistics",
+    "size": 500,
+    "founded": 2003,
+    "website": "https://swiftlogistics.example.com"
+  },
+  {
+    "id": 8,
+    "name": "EduSpark Learning",
+    "location": "Delhi, India",
+    "industry": "Education",
+    "size": 90,
+    "founded": 2016,
+    "website": "https://eduspark.example.com"
+  },
+  {
+    "id": 9,
+    "name": "PixelPeak Games",
+    "location": "Bangalore, India",
+    "industry": "Gaming",
+    "size": 60,
+    "founded": 2019,
+    "website": "https://pixelpeak.example.com"
+  },
+  {
+    "id": 10,
+    "name": "SolarEdge Energy",
+    "location": "Ahmedabad, India",
+    "industry": "Energy",
+    "size": 150,
+    "founded": 2011,
+    "website": "https://solaredge.example.com"
+  },
+  {
+    "id": 11,
+    "name": "CloudNest Hosting",
+    "location": "Mumbai, India",
+    "industry": "Cloud",
+    "size": 220,
+    "founded": 2014,
+    "website": "https://cloudnest.example.com"
+  },
+  {
+    "id": 12,
+    "name": "MetroMart Retail",
+    "location": "Kolkata, India",
+    "industry": "Retail",
+    "size": 400,
+    "founded": 2009,
+    "website": "https://metromart.example.com"
+  }
+]
