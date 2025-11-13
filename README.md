@@ -1,16 +1,70 @@
-# React + Vite
+Companies Directory – React Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive React application that displays a list of companies with filtering, sorting, and pagination.
+The app fetches company data from a mock API (companies.json) and presents it in a clean UI.
 
-Currently, two official plugins are available:
+ Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 https://companies-directory-mu.vercel.app
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Search companies by name
 
-## Expanding the ESLint configuration
+Filter by location
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Filter by industry
+
+Sort by company name (A–Z / Z–A)
+
+Pagination with dynamic page size (5 / 10 / 20)
+
+Fully responsive layout
+
+Clean UI built using React + Vite
+
+Data loaded from a mock API (JSON)
+
+ Tech Stack
+
+React.js
+
+Vite
+
+JavaScript (ES6)
+
+CSS (custom styling)
+
+Vercel (Deployment)
+
+ Project Structure
+src/
+ ├── components/
+ │    ├── CompanyTable.jsx
+ │    ├── CompanyFilters.jsx
+ │    └── Pagination.jsx
+ ├── hooks/
+ │    └── useCompanies.js
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+public/
+ └── companies.json  (mock API)
+
+ How to Run Locally
+# Clone the repository
+git clone https://github.com/AtulDwibhashi/companies-directory.git
+
+# Navigate into the folder
+cd companies-directory
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+
+App will run at:
+
+ http://localhost:5173/
